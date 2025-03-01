@@ -10,8 +10,14 @@ permalink: /members/
 
 [![Sidharth's GitHub stats](https://github-readme-stats.vercel.app/api?username=psidh&show_icons=true&border_radius=16&theme=default#gh-light-mode-only)](https://github.com/anuraghazra/github-readme-stats#gh-light-mode-only)
 
+
 [![Lakshmi's GitHub stats](https://github-readme-stats.vercel.app/api?username=lakshmikoyilada&show_icons=true&border_radius=16&theme=default#gh-light-mode-only)](https://github.com/anuraghazra/github-readme-stats#gh-light-mode-only)
+
+[![Asreetha's GitHub stats](https://github-readme-stats.vercel.app/api?username=Asreetha98&show_icons=true&border_radius=16&theme=default#gh-light-mode-only)](https://github.com/anuraghazra/github-readme-stats#gh-light-mode-only)
+
+[![chaitanya's GitHub stats](https://github-readme-stats.vercel.app/api?username=Chaitanyakilari&show_icons=true&border_radius=16&theme=default#gh-light-mode-only)](https://github.com/anuraghazra/github-readme-stats#gh-light-mode-only)
+
 
 > To add yourself here copy the following template and replace the X with GitHub Name and x-username with your GitHub username.
 > 
-> [![X]'s GitHub stats](https://github-readme-stats.vercel.app/api?username=[x-username]&show_icons=true&border_radius=16&theme=default#gh-light-mode-only)](https://github.com/anuraghazra/github-readme-stats#gh-light-mode-only)
+> [![X]'s GitHub stats](https://github-readme-stats.vercel.app/api?username=chaitanya&show_icons=true&border_radius=16&theme=default#gh-light-mode-only)](https://github.com/anuraghazra/github-readme-stats#gh-light-mode-only)
